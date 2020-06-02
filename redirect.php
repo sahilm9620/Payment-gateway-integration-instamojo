@@ -26,13 +26,14 @@
 
       <div class="page-header">
         
-        <p class="lead">Thank you for your donation to sahil's Charity.</p>
+        <p class="lead" style=color:blue>Thank you for your donation to sahil's Charity.</p>
       </div>
 
-      <strong>><h3 style="color:#6da552">Thank You..!! Payment Done Sucessfully!!</h3> </strong
-  
+      <strong><h3 style="color:#6da552">Thank You..!! Payment Done Sucessfully!!</h3> </strong>
+   
     <p> Thank you for supporting Charity work with your generous regular donations. Your valuable gift is helping us provide long-term support to girls and poor people.
 </p>
+<p>Note : Check Your Email For Transection Detail</p>
  <?php
 
 include 'src/instamojo.php';
